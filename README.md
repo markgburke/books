@@ -4,11 +4,12 @@
 
 WoW Diaries
 Neuromancer
+Bible Unearthed
 
 ## Reading List
 
 Cryptonomicon by Neal Stephenson
-Gravity�s Rainbow by Thomas Pynchon
+Gravity's Rainbow by Thomas Pynchon
 Foundation Trilogy
 Dune Trilogy
 Jonathan Strange & Mr. Norrell by Susanna Clarke
