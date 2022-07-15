@@ -3,7 +3,6 @@
 ## Reading Now
 
 WoW Diaries
-Neuromancer
 Bible Unearthed
 
 ## Reading List
@@ -17,3 +16,7 @@ Last and First Men and Star Maker by Olaf Stapledon
 The Long Tomorrow by Leigh Brackett
 Dhalgren by Samuel Delany
 Infinite Jest by David Foster Wallace
+
+## Completed
+
+Neuromancer - William Gibson
