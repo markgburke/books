@@ -2,8 +2,9 @@
 
 ## Reading Now
 
-- WoW Diaries
-- Bible Unearthed
+- The Brothers Karamazov by Fyodor Dostoyevsky
+- WoW Diaries by John Staats
+- Bible Unearthed by Israel Finkelstein & Neil Asher Silberman
 
 ## Reading List
 
@@ -19,4 +20,4 @@
 
 ## Completed
 
-- Neuromancer - William Gibson
+- Neuromancer - William Gibson (2022)
