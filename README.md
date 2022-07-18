@@ -9,6 +9,7 @@
 ## Reading List
 
 - Cryptonomicon by Neal Stephenson
+- Building a Second Brain by Tiago Forte
 - Gravity's Rainbow by Thomas Pynchon
 - Foundation Trilogy
 - Dune Trilogy
